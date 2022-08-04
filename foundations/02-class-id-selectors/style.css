@@ -1,0 +1,32 @@
+p {
+
+}
+
+div {
+
+}
+
+.odd{
+background-color: rgb(214, 84, 105);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.even{
+
+}
+
+#two{
+color: blue;
+font-size: 36px;
+
+}
+
+#three{
+ font-size: 24px;   
+}
+
+#four{
+    background-color: rgb(97, 245, 97);
+    font-size: 24px;
+    font-weight: bold;
+}
